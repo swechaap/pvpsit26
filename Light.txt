@@ -1,0 +1,5 @@
+name - Light
+dept - cse
+year / section - II / 4
+hobbies - reading books, playing games, learning things, commending arts
+sports - circket, basketball, table tennis
