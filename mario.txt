@@ -1,0 +1,6 @@
+My name is mario .I am a 2nd year B.Tech Student.I am a lateral entry ,I have pursued  my diploma in computer enginnering.
+My hobbies are playing chess,watching anime,reading novels and books.My technical skills include being able to write programs in
+C,C++,Java and Python.I am currently trying to learn the programming language Rust.I have experince in handling database queries
+in SQL in MySql databases.My further pusuits inlude developing a skill in coding and refining my knowledge on fundamental concepts of
+Computer Science and Enineering
+
