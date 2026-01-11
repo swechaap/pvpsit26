@@ -1,0 +1,4 @@
+my name is lalith.
+
+dept:CSE.
+my hobbies are playing sports,eating,reading,listening music.
