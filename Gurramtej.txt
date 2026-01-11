@@ -1,0 +1,6 @@
+Name: Gurram Teja
+Department: Computer Science
+Hobbies:
+- Coding
+- Spring Boot
+- Music
