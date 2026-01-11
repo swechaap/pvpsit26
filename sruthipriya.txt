@@ -1,0 +1,4 @@
+name:T.Sruthi Priya
+dept:CSE
+college:PVPSIT
+Hobbies:Listening music,watching TV and cooking
